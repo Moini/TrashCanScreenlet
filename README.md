@@ -16,6 +16,7 @@ Tested on LM18 Xfce.
 Licence: GPLv2 or higher
 
 Screenshots:
+
 Need to take garbage to the curb:
 
 ![need to take garbage to the curb](https://cloud.githubusercontent.com/assets/3240233/19420619/418ac42c-93ef-11e6-8aa3-bd76f3f6dbc4.png)
