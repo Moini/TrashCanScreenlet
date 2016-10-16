@@ -13,9 +13,11 @@ If you would like to use it:
 
 Tested on LM18 Xfce.
 
-Licence: GPLv2 or higher
+**Licence**: GPLv2 or higher
 
-Screenshots:
+**Images**: Public Domain (see [Open Clipart Library](https://openclipart.org/detail/263901/trash-icons))
+
+**Screenshots**:
 
 Need to take garbage to the curb:
 
